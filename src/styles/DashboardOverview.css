@@ -1,0 +1,18 @@
+.dashboard-overview {
+  background-color: #ffffff;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+}
+
+.dashboard-overview h2 {
+  font-size: 1.4rem;
+  color: #222;
+  margin: 0;
+}
+
+.overview-subtitle {
+  font-size: 0.95rem;
+  color: #666;
+  margin-top: 0.5rem;
+}

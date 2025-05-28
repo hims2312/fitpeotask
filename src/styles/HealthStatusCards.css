@@ -1,0 +1,45 @@
+.health-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.health-card {
+  background-color: #f9fafe;
+  border-radius: 20px;
+  padding: 1rem 1.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  width: 260px;
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #1f1f3c;
+}
+
+.emoji {
+  font-size: 1.8rem;
+}
+
+.card-date {
+  font-size: 0.85rem;
+  color: #9a9a9a;
+  margin: 8px 0;
+}
+
+.progress-bar {
+  height: 8px;
+  background-color: #e5e7eb;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  border-radius: 10px;
+}

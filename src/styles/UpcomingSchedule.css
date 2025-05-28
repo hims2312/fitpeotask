@@ -1,0 +1,28 @@
+.upcoming-schedule {
+  padding: 24px;
+  font-family: "Segoe UI", sans-serif;
+  color: #2c2c2c;
+}
+
+.schedule-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.schedule-group {
+  margin-bottom: 20px;
+}
+
+.day-label {
+  font-size: 16px;
+  font-weight: 500;
+  color: #999;
+  margin-bottom: 12px;
+}
+
+.schedule-cards {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
